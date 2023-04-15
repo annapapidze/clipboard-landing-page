@@ -163,6 +163,18 @@ main {
     max-width: 311px;
 }
 
+.para_comp {
+    color: #9EABB2;
+    font-family: "Bai Jamjuree";
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.12px;
+    max-width: 311px;
+}
+
 .fourth_section {
     margin-bottom: 131.2px;
 }
@@ -316,7 +328,11 @@ main {
     }
 
     .para_comp {
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 0.15px;
         text-align: left;
+        max-width: 736px;
     }
 
     .img_devices {
