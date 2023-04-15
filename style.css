@@ -315,6 +315,10 @@ main {
         max-width: 352px;
     }
 
+    .para_comp {
+        text-align: left;
+    }
+
     .img_devices {
         width: 812px;
         height: 475px;
